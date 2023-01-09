@@ -1,0 +1,7 @@
+.box {
+  width :100%;
+  display: flex;
+  justify-content:space-around  ;
+  background-color: rgb(171, 117, 78);
+  margin-top: 50px ;
+}
